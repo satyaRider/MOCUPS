@@ -1,0 +1,6 @@
+1 create two tabs called as rider history and rider screen.
+2 give accses to the database using firestore
+3 give in serch options to the rider history.
+4 test the app for more Queries.
+          
+          
